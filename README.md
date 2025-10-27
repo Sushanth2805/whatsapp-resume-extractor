@@ -1,19 +1,3 @@
-I'll read your current README and create a neat, clean version for you.
-
-
-[1 tool called]
-
-Let me check what files are available and read the setup guide to understand your project structure:
-
-
-[2 tools called]
-
-Now let me check the main app file to understand the project better:
-
-
-[1 tool called]
-
-Based on your project structure, here's a neat and clean README:
 
 ```markdown
 # 📱 WhatsApp Resume Extractor
